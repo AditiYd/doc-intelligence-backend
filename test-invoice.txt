@@ -1,0 +1,10 @@
+﻿INVOICE #INV-2024-001
+Date: 2024-01-15
+Vendor: Acme Corp Ltd
+
+Item                  Qty   Unit Price   Total
+Web Hosting (annual)    1     120.00      120.00
+Domain Registration     1      15.00       15.00
+SSL Certificate         1      49.00       49.00
+
+Total Due: USD 202.40
